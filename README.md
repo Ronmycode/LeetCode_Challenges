@@ -7,4 +7,4 @@ Here are my study notes from all the LeetCode Challenges that I have encountered
 
 ### Interesting Links
 
-Here's the link to my [Notion Study Notes](https://pages.github.com/) page.
+Here's the link to my [Notion Study Notes](https://www.notion.so/138df02e205280f3aabded04a4780efa?v=17e4b67bc64d4ab4a20d746adeb949a1) page.
